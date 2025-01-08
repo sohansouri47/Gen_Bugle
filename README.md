@@ -48,8 +48,6 @@ GROQ_API_KEY=your_llm_api_key
 
 ## Architecture
 
-### Agents
-
 ![Screenshot 2025-01-08 144812](https://github.com/user-attachments/assets/11b74563-e58e-4ccf-af8b-b13362f46a6f)
 
 1. **User Proxy:** Simulates a human input proxy and manages system commands.
